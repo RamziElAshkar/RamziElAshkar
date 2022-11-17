@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/peshkov/peshkov1905/peshkov190500374/128578729-abstract-glowing-circuit-coding-background-programming-and-technology-concept-3d-rendering.jpg)
+![MasterHead](https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8)
 
 <h1 align="center">Hi 👋, I'm Ramzi El Ashkar</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
